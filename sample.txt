@@ -1,3 +1,4 @@
-ƒTƒ‹‚Å‚à‚í‚©‚éGitƒRƒ}ƒ“ƒh
-add •ÏX‚ðƒCƒ“ƒfƒbƒNƒX‚É“o˜^‚·‚é
-pull ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚Ì“à—e‚ðŽæ“¾‚·‚é
+ã‚µãƒ«ã§ã‚‚ã‚ã‹ã‚‹Gitã‚³ãƒžãƒ³ãƒ‰
+add å¤‰æ›´ã‚’ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ã«ç™»éŒ²ã™ã‚‹
+pull ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã®å†…å®¹ã‚’å–å¾—ã™ã‚‹
+
